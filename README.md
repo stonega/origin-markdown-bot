@@ -1,10 +1,4 @@
-![Niagara Launcher](/assets/launcher.png)
 
-![GitHub License](https://img.shields.io/github/license/stonega/niagara-launcher-bot)
-
-Niagara Launcher Bot is a telegram bot to help you to instantly access and launch your favorite mini apps.
-
-**[Open Bot](https://t.me/tapps_launcher_bot)**
 
 ## Development
 
