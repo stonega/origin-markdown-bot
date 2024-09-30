@@ -30,7 +30,7 @@
     "@grammyjs/storage-prisma": "^2.4.2",
     "@grammyjs/types": "3.14.0",
     "@hono/node-server": "1.13.1",
-    "@prisma/client": "5.19.1",
+    "@prisma/client": "5.20.0",
     "@telegraf/entity": "^0.5.0",
     "callback-data": "1.1.1",
     "grammy": "1.30.0",
